@@ -216,6 +216,16 @@ DELETE /books/:id
 
 ---
 
+## 🌍 Live Deployment
+
+Backend  
+https://book-management-system-mern-stack-backend.onrender.com
+
+Frontend  
+https://book-management-system-mern-stack-f-one.vercel.app/
+
+---
+
 ## 👤 Author
 
 **Nischal Aremanda**  
